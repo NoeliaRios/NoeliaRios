@@ -40,13 +40,12 @@ I'm a Frontend Developer based in Argentina with a passion for designing and cod
 
 <p align="left">
 <a href="https://github-readme-stats.vercel.app/api?username=NoeliaRios&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoeliaRios&show_icons=true&include_all_commits=true&bg_color=30,00004E,9a6eff,a0e6fe,f5b7fd&title_color=fff&text_color=fff&icon_color=f5b7fd&hide=contribs,issues" />
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=NoeliaRios&show_icons=true&include_all_commits=true&bg_color=30,00004E,9a6eff,a0e6fe,f5b7fd&title_color=fff&text_color=fff&icon_color=f5b7fd&hide=contribs,issues" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaRios&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaRios&layout=compact&bg_color=40,00004E,9a6eff,a0e6fe,f5b7fd&title_color=fff&text_color=fff&icon_color=f5b7fd" />
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaRios&layout=compact&bg_color=40,00004E,9a6eff,a0e6fe,f5b7fd&title_color=fff&text_color=fff&icon_color=f5b7fd" />
 </a>
 </p>
-
 
 
 ### 📘 My top projects
