@@ -3,16 +3,7 @@
 <p align="left">
   
 I'm a Frontend Developer based in Argentina with a passion for designing and coding stuff. I specialise in Web Development, JavaScript and Design. I'm an enthusiast for new technologies. I love to network, join new communities and add value ✨
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/noelia-rios/">
-  <img align="center" width="40px" src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/linkedin-violet-logo.svg"  />
-</a>
 
-<a href="mailto:noelia.rivers.1887@gmail.com">
-  <img align="center" width="50px" src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/gmail-logo.svg" />
-</a> 
-</p>
 
 <!--
 <details>
@@ -20,15 +11,17 @@ I'm a Frontend Developer based in Argentina with a passion for designing and cod
 
 - 🔭 I’m currently on a journey to build **great** things
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **everything** 🤣
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+- 💡 I love innovation and new technologies
 
 - 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
 
-- 💬 Ask me about **open source, web development, and Node.js**
+- 💬 Ask me about **succulents**
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **noelia.rivers.1887@gmail.com**
+
+- ⚡ Fun facts: I love to be in the garden and make flower arragements🌸
 
 </details>
  -->
@@ -57,18 +50,14 @@ I'm a Frontend Developer based in Argentina with a passion for designing and cod
 </p>
 
 
+### 📫 Connect with me:
 
-<!--
-**NoeliaRios/NoeliaRios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  
+<a href="https://www.linkedin.com/in/noelia-rios/">
+  <img align="center" width="40px" src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/linkedin-violet-logo.svg"  />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:noelia.rivers.1887@gmail.com">
+  <img align="center" width="50px" src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/gmail-logo.svg" />
+</a> 
