@@ -1,21 +1,23 @@
-<div align="center">
+
+
+<p align="left">
+  
+Hi 👋, I am **Noelia Rios** I'm a Frontend Developer based in Argentina with a passion for designing and coding stuff. I specialise in Web Development, JavaScript and Design. I'm an enthusiast for new technologies. I love to network, join new communities and add value ✨
+  
+  <div align="center">
 <p align="center">
   
 <a href="https://www.linkedin.com/in/noelia-rios/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
 <a href="mailto:noelia.rivers.1887@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> 
 </p>
 </div>
 
 <br />
-
-<p align="left">
-  
-Hi 👋, I am **Noelia Rios** I'm a full stack developer based in Argentina with a passion for designing and coding stuff. I specialise in Web Development, JavaScript and Design. I'm an enthusiast for new technologies. I love to network, join new communities and add value ✨
 
 <!--
 <details>
