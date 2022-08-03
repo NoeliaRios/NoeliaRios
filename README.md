@@ -1,10 +1,8 @@
-
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Noelia Rios!](https://www.linkedin.com/in/noelia-rios/) 
 
 <p align="left">
   
-Hi 👋, I am **Noelia Rios** I'm a Frontend Developer based in Argentina with a passion for designing and coding stuff. I specialise in Web Development, JavaScript and Design. I'm an enthusiast for new technologies. I love to network, join new communities and add value ✨
-  
-  <div align="center">
+I'm a Frontend Developer based in Argentina with a passion for designing and coding stuff. I specialise in Web Development, JavaScript and Design. I'm an enthusiast for new technologies. I love to network, join new communities and add value ✨
 <p align="center">
   
 <a href="https://www.linkedin.com/in/noelia-rios/">
@@ -15,9 +13,6 @@ Hi 👋, I am **Noelia Rios** I'm a Frontend Developer based in Argentina with a
   <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> 
 </p>
-</div>
-
-<br />
 
 <!--
 <details>
@@ -45,18 +40,20 @@ Hi 👋, I am **Noelia Rios** I'm a Frontend Developer based in Argentina with a
 
 <p align="left">
 <a href="https://github-readme-stats.vercel.app/api?username=NoeliaRios&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoeliaRios&show_icons=true&theme=radical&hide=contribs,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoeliaRios&show_icons=true&include_all_commits=true&bg_color=30,00004E,9a6eff,a0e6fe,f5b7fd&title_color=fff&text_color=fff&icon_color=f5b7fd&hide=contribs,issues" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaRios&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaRios&layout=compact&bg_color=40,00004E,9a6eff,a0e6fe,f5b7fd&title_color=fff&text_color=fff&icon_color=f5b7fd" />
 </a>
 </p>
+
+
 
 ### 📘 My top projects
 
 <p align="left">
-<a href="https://github.com/NoeliaRios/pokedex"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NoeliaRios&repo=pokedex&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/NoeliaRios/TP3-Movie-Library"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=NoeliaRios&repo=TP3-Movie-Library&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/NoeliaRios/pokedex"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NoeliaRios&repo=pokedex&hide_border=true&bg_color=110,00004E,9a6eff,a0e6fe,f5b7fd&title_color=f5b7fd&text_color=fff&icon_color=f5b7fd&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/NoeliaRios/TP3-Movie-Library"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=NoeliaRios&repo=TP3-Movie-Library&theme=react&bg_color=110,00004E,9a6eff,a0e6fe,f5b7fd&title_color=f5b7fd&text_color=fff&icon_color=f5b7fd&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   
 </p>
 
