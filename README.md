@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/Hi.gif" width="29px">, I'm [Noelia Rios!](https://www.linkedin.com/in/noelia-rios/) 
+## Hi there, I'm ✨[Noelia Rios!](https://www.linkedin.com/in/noelia-rios/)✨ <img src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/Hi.gif" width="29px">
 
 <p align="left">
   
@@ -6,11 +6,11 @@ I'm a Frontend Developer based in Argentina with a passion for designing and cod
 <p align="center">
   
 <a href="https://www.linkedin.com/in/noelia-rios/">
-  <img align="center" width="24px" src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/linkedin-violet-logo.svg"  />
+  <img align="center" width="40px" src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/linkedin-violet-logo.svg"  />
 </a>
 
 <a href="mailto:noelia.rivers.1887@gmail.com">
-  <img align="center" width="26px" src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/gmail-logo.svg" />
+  <img align="center" width="50px" src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/gmail-logo.svg" />
 </a> 
 </p>
 
