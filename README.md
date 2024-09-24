@@ -1,7 +1,9 @@
+  ![Banner_Noelia_Ríos-01](https://github.com/user-attachments/assets/cd8bc7bf-26b6-4e20-b46a-4d8b2d1da7cf)
+
 ## Hi there, I'm ✨[Noelia Rios!](https://www.linkedin.com/in/noelia-rios/)✨ <img src="https://github.com/NoeliaRios/NoeliaRios/blob/main/images/Hi.gif" width="29px">
 
 <p align="left">
-  
+
 I'm a Frontend Developer based in Argentina with a passion for designing and coding stuff. I specialise in Web Development, JavaScript and Design. I'm an enthusiast for new technologies. I love to network, join new communities and add value ✨
 
 
